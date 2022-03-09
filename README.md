@@ -6,9 +6,9 @@
 
 ### 🖖🏼 &nbsp; About me
 
-I'm a {backend, frontend and mobile} developer at [@frncubo](https://frncomunicacao.com.br/).
+I'm a {backend, frontend and mobile} developer at [@summasolutions](https://www.summasolutions.net/).
 
-### 🔭&nbsp; Goals for 2021
+### 🔭&nbsp; Goals for 2022
 
 - Produce more videos for my [Youtube Channel]
-- Improve my [GraphQL](https://graphql.org/) Knowledge
+- Improve my [Blockchain]() Knowledge
